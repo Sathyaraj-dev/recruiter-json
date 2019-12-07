@@ -1,6 +1,1 @@
-  
-{
-  "login": [
-    { "username": "Admin", "password": "Admin@1234"}
-  ]
-}
+{ "username": "Admin", "password": "Admin@1234" }
